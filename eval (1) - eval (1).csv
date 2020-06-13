@@ -1,5 +1,5 @@
 survived,sex,age,n_siblings_spouses,parch,fare,class,deck,embark_town,alone
-1,female,45,2,unknown,unknown,unknown,unknown,unknown,n
-1,female,11,1,unknown,unknown,unknown,unknown,unknown,n
-1,male,14,1,unknown,unknown,unknown,unknown,unknown,n
-1,male,46,2,unknown,unknown,unknown,unknown,unknown,n
+1,female,45,2,0,unknown,unknown,unknown,unknown,n
+1,female,11,1,0,unknown,unknown,unknown,unknown,n
+1,male,14,1,0,unknown,unknown,unknown,unknown,n
+1,male,46,2,0,unknown,unknown,unknown,unknown,n
